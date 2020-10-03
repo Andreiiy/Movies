@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851403153724",
+    "firebase_url": "https://movies-1979a.firebaseio.com",
+    "project_id": "movies-1979a",
+    "storage_bucket": "movies-1979a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851403153724:android:dc3d6c6c40fbad921bfe39",
+        "android_client_info": {
+          "package_name": "com.atatar.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851403153724-heq7rqpuotln4dpsu2ng3k4q9p26aio4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NW7NEeqb3yQSQJrt0d7GoIm1gXCJ7Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851403153724-heq7rqpuotln4dpsu2ng3k4q9p26aio4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
